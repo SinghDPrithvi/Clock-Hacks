@@ -1,5 +1,3 @@
-# Clock-Hacks 
-
 This project was inspired by the millions of struggling high school who have too much work to complete and just can't get themselves concentrated enough or focused to do the work
 With this AI that we have developed as the core of predictor as to when someone is distracted, neutral or concentrated. With this, we can help people the 336 million people with ADHD and other mental health issues 
 or simply the general public to help themselves focus more. Though this project isn't exactly solving these Issues it is a big step towards diagnosing it. Our AI uses a machine learning algorithm to look at 
